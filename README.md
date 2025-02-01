@@ -1,6 +1,15 @@
 # Práctica Integradora DAM-DAW
 Práctica integradora de los módulos DAW, DWES, AD y DIW en la que hemos desarrollado una aplicación para una tienda de zapatillas y su administración.
 
+# Demo del Proyecto
+
+Demostración de cómo funciona la tienda:
+
+
+[Ver el video en YouTube](https://www.youtube.com/watch?v=Kek_6CMzT9o)
+
+
+
 > [!IMPORTANT]
 > La versión final del código de la aplicación es la hospedada en la rama merge-Final, puesto que el merge con _main_ antes de la entrega no ha sido posible.
 
